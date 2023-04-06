@@ -10,4 +10,4 @@ I am a WEB and MOBILE Apps Developer 💻
 - 👯 I’m looking to collaborate on open source projects
 
 
-[![Yuweh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuweh)](https://github.com/yuweh/github-readme-stats)
+[![Yuweh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuweh)](https://github.com/yuweh/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuweh)](https://github.com/yuweh/github-readme-stats)
