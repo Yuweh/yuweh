@@ -63,57 +63,24 @@ Stack Overflow posts
 </td>
 </tr>
 
-
-  
-<tr>
-<td colspan="4">
-<em><samp>Scroll down to check out my projects!</samp></em>
-</td>
-
-<td colspan="2" rowspan="2">
-<a href="https://github-readme-stats.vercel.app/api?username=yuweh&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api?username=yuweh&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true">
-</a>
-</td>
-  
-<td colspan="2" rowspan="2">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yuweh&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuweh&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
-</a>
-</td>
-
-
-</td>
-</tr>
-
-<tr>
-<td colspan="4">
-<a href="">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Twitter.svg" width="40">
-</a>
-<a href="">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Discord.svg" width="40">
-</a>
-<a href="">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/LinkedIn.svg" width="40">
-</a>
-<a href="">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Reddit.svg" width="40">
-</a>
-<a href="">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Medium.svg" width="40">
-</a>
-<a href="">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/StackOverflow.svg" width="40">
-</a>
-<a href="">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Email.svg" width="40">
-</a>
-</td>
-
 </table>
 
-<a href=""><img src="https://img.shields.io/discord/807790675998277672?color=00b035&label=Discord"></a> <a href="https://stackoverflow.com/users/14351818/yuweh"><img src="https://img.shields.io/badge/Stack%20Overflow-21.5k-F47F24"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=007EEF&label=Profile%20Views"></a>
+<h2 align="left">My Stats on GitHub</h2>
+
+<div>
+<a href="https://github.com/yuweh/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=officel&theme=transparent&hide_border=true&show_icons=true&locale=en&hide=html,javascript" width="47%" align="left" alt="lang"/></a>
+<a href="https://github.com/yuweh/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=officel&theme=transparent&hide_border=true&show_icons=true&count_private=true" width="49%"  alt="stats"/></a>
+<hr width="49%" />
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=officel&theme=github-dark-blue&hide_border=true&currStreakLabel=417E87&sideLabels=417E87&stroke=417E87&currStreakNum=7FFF00&background=00000000" width="49%" /></a>
+</div>
+
+<p align="center">
+<a href="https://github.com/yuweh/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=officel&theme=github-dark&hide_title=true&hide_border=true&bg_color=00000000&color=417E87&point=7FFF00" width="98%" /></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/yuweh/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=officel&theme=darkhub&no-bg=true&no-frame=true&&row=2&column=5&margin-w=30&margin-h=30" /></a>
+</p>
 
   
 
