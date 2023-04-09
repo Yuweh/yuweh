@@ -1,4 +1,7 @@
-<a href="https://xiapps.wordpress.com/"><img src="https://xiapps.wordpress.com/2018/03/31/latest-project-harry-potter-messenger-app-other-cool-apps/hpmessenger01/" alt=""></a>
+<img display="float" align="right" width="300" src="https://raw.githubusercontent.com/dickyrey/dickyrey/main/download-removebg-preview.png">
+<h1 align="left">Hi, I'm Francis</h1> 
+A Web and Mobile Apps Developer for Xi Apps and Day-time Job. 
+Feel free to contact me if you wish to offer or work together in a project
 
 <table>
 <tr>
