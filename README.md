@@ -78,10 +78,6 @@ Stack Overflow posts
 
 </table>
 
-### More stuff about me
-
-I'm passionate about technology, science, developing things that improve people's lives and make the world a better place. I've been working with mobile development for iOS platform since 2017 with experience on all steps of iOS development, from the concept of the ideas until releasing the app on the store and following the results with analytics, tests and crash reports.
-
 <h2 align="left">My Stats on GitHub</h2>
 
 <div>
@@ -94,6 +90,10 @@ I'm passionate about technology, science, developing things that improve people'
 <p align="center">
 <a href="https://github.com/yuweh/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=yuweh&theme=github-dark&hide_title=true&hide_border=true&bg_color=00000000&color=417E87&point=7FFF00" width="98%" /></a>
 </p>
+
+### More stuff about me
+
+I'm passionate about technology, science, developing things that improve people's lives and make the world a better place. I've been working with mobile development for iOS platform since 2017 with experience on all steps of iOS development, from the concept of the ideas until releasing the app on the store and following the results with analytics, tests and crash reports.
 
 <p align="center">
 <a href="https://github.com/yuweh/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuweh&theme=darkhub&no-bg=true&no-frame=true&&row=2&column=5&margin-w=30&margin-h=30" /></a>
