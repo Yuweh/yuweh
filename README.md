@@ -53,7 +53,7 @@ Various
 Day-time Job 🟨🟧🟥
 </td>
 <td colspan="2">
-ReactJS
+Python
 </td>
 <td colspan="2">
 New open-source libraries
@@ -65,7 +65,7 @@ Focus
 
 <tr>
 <td colspan="2">
-VOIP Freelance Project
+Freelance Projects
 </td>
 <td colspan="2">
 SWIFTUI
